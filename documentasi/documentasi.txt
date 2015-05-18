@@ -1,0 +1,49 @@
+Mediashop merupakan situs toko online yang memberikan pelayanan jual beli / marketplace/ booking hotel, pesawat maupun kereta api sesuai jadwal keberangkatan dan kedatang dari masing-masing layanan
+serta aspek keamanan , kepercayaan konsumen adalah prioritas utama kami. 
+
+roles bisnis mediashop : 
+			1. sistem ini memiliki banyak produk atau jasa sesuai kategori dan seller 
+			2. sistem ini memiliki 3 user yaitu Administrator, seller, pelanggan 
+			3. sistem ini memiliki prosedure / cara pemesanan dan metode pembayaram 
+			4. setiap user harus memiliki hak akses  sesuai dengan aturan / tingkatan / level user dan akan di alihkan ke halaman area private ( dashboard)
+			5. sistem dashboard ( halaman private ) terdiri dari halaman Administrator , halaman seller , halaman member atau pelanggan sesuai jenis login akesnya 
+			6. sistem ini juga memiliki customer services atau kontak bantuan online 24  jam 
+			
+
+fungsionalitas Mediashop :
+
+----> Administrator :
+			1. Mengatur dan memanagement User (administrator,pelanggan,seller)
+			2. Konfirmasi permintaan publikasi product oleh seller 
+			3. Melihat  data Transaksi penjualan 
+			4. Menambahkan daftar  kategori produk 
+			5. mengurangi jumlah data Pelanggan yang tidak aktive
+			6. mengatur settingan konfigurasi web site 
+						
+---> Seller         :
+			1. memanagement data produk 
+			2. mengatur data transaksi antara pelanggan dengan seller 
+			3. Mengatur atau mengelola data pengembalian barang
+			4. sebelum login seller harus mendaftarkan diri seller / agen 
+			5. 
+
+
+----> Pelanggan / Member: 
+			1. melihat produk yang ditawarkan dan mencari produk 
+			2. menambahkan produk yang dipesan  ke keranjang belanja 
+			3. mendaftarkan diri sebagai pelanggan baru dan tujuan pengiriman 
+			4. membatalkan pemesanan barang jika tidak sesuai  produk yang diperlihatkan di website 
+			5. memberikan tanggapan atau komentar  tentang pelayanan yang telah di perlihatkan 
+			7. melakukan tracking status produk 
+			6. memilih metode pembayaran  sesuai pilihan yang tersedia dan konfirmasi pembayaran .
+
+
+metode  pengembangan aplikasi / perancangan sistem  dengan menggunakan  pemrogramanan berorientasi object 
+Pemodelan  sistem informasi  berorientasi objek :
+UML ( Unified Modelling Languange ) 
+perancangan sistem dibagi menjadi 2 macam : 
+DFD dan ERD -> prosedural / struktural , function , PHP , DELPHI 
+UML -> OOP / berorientasi Objek , class , operation , Java C++ , PHP , VB / C 
+UML  merupakan sebuah bahasa  yang telah menjadi standart dalam industri  untuk merancang  dan  mendokumentasi sistem piranti  lunak 
+
+Diagram wajib  dalam UML -> Use case Diagram  , Activity Diagram  , Class , Sequence 

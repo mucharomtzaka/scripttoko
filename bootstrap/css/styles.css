@@ -1,0 +1,41 @@
+header {
+	background-color:#46629e;
+	color:white;
+	text-align:center;
+	padding:5px;
+	border : 2px solid;
+	border-radius :25px 25px 0px 0px ;
+}
+nav{
+	background-color:#46629e;
+	color:white;
+	text-align:right;
+	padding:5px;
+	border : 2px solid;
+}
+
+aside{
+	line-height:30px;
+	background-color:#e9eaed;
+	height:300px;
+	width:20%;
+	float:left;
+	padding:5px;
+	border-radius : 0px  25px;
+}
+
+section {
+	width:70%;
+	padding:10px;
+	overflow:hidden;
+}
+
+footer{
+	background-color:#46629e;
+	color:white;
+	text-align:center;
+	clear:both;
+	padding:5px;
+	height:40px;
+	border-radius : 0px 0px 25px 25px  ;
+}
